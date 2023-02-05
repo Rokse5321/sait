@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.zagol {
+    margin-top: 160px ;
+    text-align: center;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 44px;
+    margin-bottom: 45px;
+}
+.kart {
+    width: 955px;
+    height: 600px;
+    display: block;
+    margin: 0 auto;
+}
+P, H3 {
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.text1 {
+    margin-top: 20px; 
+}
+.text2 {
+    margin-top: 5px; 
+}
+H3 {
+    font-size: 25px;
+}
